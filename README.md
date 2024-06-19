@@ -1,6 +1,2 @@
-<фрагмент_вставки_значка>
+[![Build Status](https://app.travis-ci.com/KMACREATOR/lab04.svg?token=xAssR932oWsf13EwoaBR&branch=main)](https://app.travis-ci.com/KMACREATOR/lab04)
 # lab02
-so uuuhh like yeah
-this IS the readme... dot md... which means it's a Markdown file...
-and there are absolutely ZERO (0) references on what I even should write here
-cool, innit?		
